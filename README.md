@@ -1,6 +1,6 @@
 <h1> Olá, eu sou o Wesley!🖐🤘</h1>
 
-- 👨‍💻 Desenvolvedor Frontend Jr na Math MKT 
+- 👨‍💻 Desenvolvedor Frontend
 - 🎓 Formado em Ciência da Computação
 - 🚧 Portfólio em construção  
 

@@ -44,14 +44,6 @@
 
 ---
 
-## ⚙️ GitHub Analytics:
-<p>
-  <img alt="Wesley Git Stats" src="https://github-readme-stats.vercel.app/api?username=wesleylcs&show_icons=true&theme=dark">
-  <img alt="Wesley Git Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleylcs&layout=demo&show_icons=true&theme=dark">
-</p>
-
----
-
 ## 📲 Social Links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleylcs/)
